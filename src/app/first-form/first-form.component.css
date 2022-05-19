@@ -1,0 +1,33 @@
+.inputField{
+    padding: 0%;
+}
+
+.categoryForm{
+    padding: 10px !important;
+    border-right: 1px solid black;
+}
+
+.assesmentForm{
+    padding:10px;
+    border-right: 1px solid black;
+}
+
+.categoryInput{
+    margin: 5px !important;
+    margin-top:20px !important;
+    padding-top: 20px !important;
+    height: 100% !important;
+    
+}
+
+.assesmentInput{
+    margin: 5px !important;
+    margin-top:20px !important;
+    padding-top: 20px !important;
+    height: 100% !important;
+}
+
+.details{
+    margin-top: 10px !important;
+    border-bottom: 1 px solid rgb(87, 87, 192) !important;
+}
