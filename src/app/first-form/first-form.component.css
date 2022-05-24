@@ -4,12 +4,10 @@
 
 .categoryForm{
     padding: 10px !important;
-    border-right: 1px solid black;
 }
 
 .assesmentForm{
     padding:10px;
-    border-right: 1px solid black;
 }
 
 .categoryInput{
@@ -30,4 +28,15 @@
 .details{
     margin-top: 10px !important;
     border-bottom: 1 px solid rgb(87, 87, 192) !important;
+}
+
+.assesmentDetails{
+    margin: 10px !important;
+    padding: 10px !important;
+}
+
+.save{
+    padding-top: 10px;
+    padding-left: 30px;
+    border-top: 1px solid black;
 }
